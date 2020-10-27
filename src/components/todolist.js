@@ -8,6 +8,7 @@ const Todolist = (props) => {
 
       <div>
       <p>{el}</p>
+      <p>delete</p>
       </div>
       )}
       </div>
